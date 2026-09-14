@@ -9,9 +9,9 @@ profile:
   image: my_photo1.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>System Integration Engineer</p>
-    <p>Formulatrix Indonesia</p>
-    <p>Salatiga, Indonesia</p>
+    <p>Full Time Lecturer</p>
+    <p>Universitas Tanjungpura</p>
+    <p>Pontianak, Indonesia</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
