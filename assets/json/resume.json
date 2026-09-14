@@ -6,13 +6,13 @@
     "email": "amrihusnul@ymail.com",
     "phone": "-",
     "url": "https://moezeus.github.io",
-    "summary": "Highly motivated engineer who is effective at designing work schedules, maintaining desired outcomes, and always ready to learn new things. Hardworking and passionate team player with a strong will and knowledge in robotic systems.",
+    "summary": "Instrumentation and Control Engineer with 8+ years of experience spanning field engineering, system integration, autonomous vehicles, robotics, industrial automation, and multidisciplinary prototype development. Experienced in integrating sensors, controllers, actuators, electrical/mechanical systems, and software from system architecture through field testing. Strong hands-on background in troubleshooting, commissioning, validation, and leading engineering teams in real-world environments.",
     "location": {
-      "address": "Perum Tugu Asri No 40",
-      "postalCode": "50775",
-      "city": "Tengaran",
+      "address": "Faculty of Engineering, Universitas Tanjungpura",
+      "postalCode": "78114",
+      "city": "Pontianak",
       "countryCode": "ID",
-      "region": "Central Java"
+      "region": "West Kalimantan"
     },
     "profiles": [
       {
@@ -23,6 +23,32 @@
     ]
   },
   "work": [
+    {
+      "name": "Universitas Tanjungpura",
+      "position": "Calibration Laboratory Manager, Integgrated laboratory",
+      "url": "https://upt-labterpadu.untan.ac.id/",
+      "startDate": "2026-08-01",
+      "endDate": "Present",
+      "summary": [
+        "Manage the Calibration Laboratory, which is a part of the Integrated Laboratory, Faculty of Engineering, Universitas Tanjungpura"
+      ],
+      "highlights": [
+        "Initiated the establishment of a university calibration laboratory."
+      ]
+    },
+    {
+      "name": "Universitas Tanjungpura",
+      "position": "Full Time Lecturer",
+      "url": "https://ee.untan.ac.id",
+      "startDate": "2025-07-01",
+      "endDate": "Present",
+      "summary": [
+        "Teaching, Research, and Community Service in Electrical Engineering Department, Faculty of Engineering, Universitas Tanjungpura"
+      ],
+      "highlights": [
+        "Electrical Engineering lecturer and member of Digital Control & Computation Laboratory, supervising multidisciplinary engineering and research projects."
+      ]
+    },
     {
       "name": "PT Promanufacture Indonesia (Formulatrix)",
       "position": "System Integration Engineer",
@@ -179,6 +205,34 @@
   ],
   "publications": [
     {
+      "name": "Evaluating PID, LQR, and LMPC on Furuta pendulum with external disturbance considerations",
+      "publisher": "International Conference on Applied Electrical, Electronics, and Informatics Engineering (INFERT)",
+      "releaseDate": "2025",
+      "url": "https://infert.polnep.ac.id/proceeding/index.php/infert/issue/view/1",
+      "summary": "Control algorithms benchmarking on Furuta pendulum with external disturbance considerations"
+    },
+    {
+      "name": "Autonomous vehicle lane-change maneuver accounting for emotion-induced driving behavior in other vehicles",
+      "publisher": "Intelligent Service Robotics",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1007/s11370-024-00549-y",
+      "summary": "Master's thesis research paper"
+    },
+    {
+      "name": "Leveraging digital twin for autonomous docking of a container truck with stabilization control",
+      "publisher": "Journal of Field Robotics",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1002/rob.22283",
+      "summary": "CTT implementation using digital twin for autonomous docking with stabilization control"
+    },
+    {
+      "name": "Patents: Alat Pengubah Kontrol Manual Menjadi Sinyal Elektrik Pada Truk Kontainer Berbasis Motor Hidrolik ",
+      "publisher": "DJKI Indonesia",
+      "releaseDate": "2026",
+      "url": "P00202208885",
+      "summary": "The present invention relates to a manual control to electrical signal converter in a hydraulic motor based container truck (Indonesian version)"
+    },
+    {
       "name": "Patents: Manual Control to Electric Signal Control Tools on Container Trucks Based on Hydraulic Motors",
       "publisher": "PCT Patent",
       "releaseDate": "2023",
@@ -261,6 +315,11 @@
   ],
   "references": [
     {
+      "name": "Prof. Dr.Eng. Ir. Ferry Hadary, S.T., M.Eng., IPM., ASEAN Eng.",
+      "icon": "fa-solid fa-laptop",
+      "reference": "ferry.hadary@ee.untan.ac.id"
+    },
+    {
       "name": "Augie Widyotriatmo, S.T., M.T., Ph.D.",
       "icon": "fa-solid fa-laptop",
       "reference": "augie@tf.itb.ac.id"
@@ -272,6 +331,63 @@
     }
   ],
   "projects": [
+    {
+      "name": "IOT-BASED MERCURY DETECTION DEVICE FOR FRESHWATER FISH",
+      "summary": [
+        "Hardware and Control System Leader (Supporting Team)"        
+      ],
+      "highlights": [
+        "The project owner is the laboratory professor, collaborating with another university (Universitas Muhammadiah Pontianak).",
+        "Supervising 2 students on building the device from the first prototype and the proper version (with 3D bracket).",
+        "Proposing 2 detection methods, using spectral color sensor and camera (USB Microscope).",
+        "Analyze the image and spectral data (using colorimetri methods, color difference as the reference for mercury concentrations).",
+        "Collaborate with the chemist in order to get representative mercury concentration gathering paper. "
+      ],
+      "startDate": "2026",
+      "endDate": "2027"
+    },
+    {
+      "name": "SMART RIVER WASTE DETECTION AND COUNTING SYSTEM FOR ENVIRONMENTAL MONITORING",
+      "summary": [
+        "Hardware and Control System Leader (Supporting Team)"        
+      ],
+      "highlights": [
+        "The project owner is the colleagues from environmental engineering, who needs supports in building the devices (comprises of edge AI detection using Jetson Nano).",
+        "Supervising 4 students on building the hardware, from the mechanical to electrical system.",
+        "Supervising another 3 students on training the object detection model (using Yolo v11 transfer learning methods), build the training notebooks and teach the students on how to operate it. ",
+        "Supporting target: working prototype. "
+      ],
+      "startDate": "2026",
+      "endDate": "2027"
+    },
+    {
+      "name": "MACHINE LEARNING-BASED WATER QUALITY MONITORING ON PEAT WATER ELECTROCOAGULATION SYSTEM ",
+      "summary": [
+        "Hardware and Control System Leader"        
+      ],
+      "highlights": [
+        "Supervising 4 students on building the hardware, from the mechanical to electrical system.",
+        "Build the system while also encouraging the student to learn on the mechanical and electrical best practice, also introducing the machine learning concept that is used on the system.",
+        "Doing daily and weekly progress checking, with also do hands-on works to keep everything is under the timeline.",
+        "Research target: working prototype, patent and research paper. "
+      ],
+      "startDate": "2026",
+      "endDate": "2027"
+    },
+    {
+      "name": "SMARTSTUNT (IOT INFANTOMETER-SCALE WITH EDGE AI QC AND WHO HAZ/LAZ CALCULATIONS FOR STUNTING RISK EARLY DETECTION)",
+      "summary": [
+        "Hardware and IoT System Engineer"        
+      ],
+      "highlights": [
+        "Create the scale device for infant and kid.",
+        "Integrating various sensor with ESP32 as the main microcontroller.",
+        "Calibrate and test every feature of the device, creating first prototype to be finalized into a end product.",
+        "Coordinate with the another engineer in terms of data communication from edge device to the IoT Dashboard."
+      ],
+      "startDate": "2026",
+      "endDate": "2027"
+    },
     {
       "name": "AUTOMATED CELL CULTURE SYSTEM",
       "summary": [
