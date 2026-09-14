@@ -54,7 +54,7 @@
       "position": "System Integration Engineer",
       "url": "https://formulatrix.com/automated-cell-culture/",
       "startDate": "2023-06-05",
-      "endDate": "Present",
+      "endDate": "2025-06-30",
       "summary": [
         "Working on CELL project (integration of multi-instrument)"
       ],
@@ -114,7 +114,7 @@
       "position": "Trainer",
       "url": "",
       "startDate": "2022",
-      "endDate": "",
+      "endDate": "2022",
       "summary": "Train industry representative about the basic of machine learning",
       "highlights": []
     },
@@ -134,7 +134,7 @@
       "position": "Workshop Technical Leader and Hands-on Trainer",
       "url": "",
       "startDate": "2021",
-      "endDate": "",
+      "endDate": "2021",
       "summary": "Lead the workshop arrangement in technical area, guide the participant in PID tuning hands-on topic",
       "highlights": ["PID-tuning, google collaboratory"]
     },
@@ -144,7 +144,7 @@
       "position": "Hands-on Trainer",
       "url": "",
       "startDate": "2020",
-      "endDate": "",
+      "endDate": "2020",
       "summary": "Create some hands-on code about AI for practitioner/field engineer",
       "highlights": ["AI Basic, object detection system, face recognition system"]
     }
